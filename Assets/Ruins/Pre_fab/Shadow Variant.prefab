@@ -81,9 +81,17 @@ PrefabInstance:
       value: Shadow Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8876226734821338570, guid: b855e4446e35b4d47978fa60cd14f465, type: 3}
+      propertyPath: m_Size.x
+      value: 0.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876226734821338570, guid: b855e4446e35b4d47978fa60cd14f465, type: 3}
+      propertyPath: m_Size.y
+      value: 0.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8876226734821338570, guid: b855e4446e35b4d47978fa60cd14f465, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -1036772590, guid: ae815fc9127123e4486226803ea1b682, type: 3}
+      objectReference: {fileID: 1920709068, guid: ed750464e8a97f04ab3df971d9508f75, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
